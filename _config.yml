@@ -1,0 +1,16 @@
+# Setup
+title:            DATA PLAYBOOK
+tagline:          'California Health and Human Services Agency'
+description:      'CHHS Data Playbook'
+url:              'https://chhsdata.github.io/dataplaybook'
+baseurl:          'https://chhsdata.github.io/dataplaybook'
+
+author:
+  name:           'California Health and Human Services Agency'
+  url:            https://twitter.com/chhsagency
+
+# Custom vars
+version:          1.1 | October 2016
+
+github:
+  repo:           https://github.com/CHHSData/DataPlaybook
